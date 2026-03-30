@@ -101,5 +101,5 @@ Academic research profile building
 Contact
 
 https://www.linkedin.com/in/rishabh-bhardwaj-742649395/
-GitHub: github.com/Sarvagya-102007
+https://github.com/Rishabh0807
 Institution: VIT Bhopal University, India
