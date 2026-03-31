@@ -98,7 +98,7 @@ Python programming and AI/ML project development
 Academic research profile building
 
 
-Contact
+Google Forms Link:https://docs.google.com/forms/d/1JA_wcfwjGtPa9MkMMn18VEa9LZzP03ePGLb2g8GPenE/edit
 
 https://www.linkedin.com/in/rishabh-bhardwaj-742649395/
 https://github.com/Rishabh0807
